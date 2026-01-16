@@ -1,0 +1,2 @@
+Savings,SA101,0.0,5
+Checking,CA101,6000.0,2000
